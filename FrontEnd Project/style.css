@@ -383,9 +383,9 @@ mySlides {
 
  /* ------------------------- */
  /* -----------------footer---------------- */
- footer{
+ .footnote{
    text-align: center;
    color:white;
     margin: 0%;
-     background-color:transparent;
+    font-size: 15px;
  }
