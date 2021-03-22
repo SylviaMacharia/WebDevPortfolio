@@ -192,11 +192,11 @@ mySlides {
   
   /* The dots/bullets/indicators */
   .dot {
-    height: 5px;
-    width: 5px;
+    height: 7px;
+    width: 6px;
     margin: 0 2px;
-    background-color: #bbb;
-    border-radius: 35%;
+    background-color: white;
+    border-radius: 55%;
     display: inline-block;
     transition: background-color 5s ease;
   }
