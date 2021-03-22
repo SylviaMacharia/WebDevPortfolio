@@ -124,7 +124,7 @@ html {
     text-align: right; /* Right-align text */
     padding-top: 2px; /* Add top padding */
     padding-bottom: 3px; /* Add bottom padding */
-    color: rgb(255, 255, 255); /* White text color */
+    color: #2196F3; /* White text color */
   }
   
   .html {width: 90%; background-color: #2196F3;} /*Blue */
