@@ -111,6 +111,14 @@ html {
       font-size: 25px;
       font-weight: 400;
 }
+.mission{
+  text-align: center;
+  text-decoration: underline;
+}
+.vision{
+   text-align: center;
+   text-decoration: underline;
+}
 
 /* Container for skill bars */
 
