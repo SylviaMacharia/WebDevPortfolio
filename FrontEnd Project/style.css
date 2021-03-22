@@ -386,9 +386,5 @@ mySlides {
  footer{
    text-align: center;
    color:white;
-   background-color: rgb(177,177,177,0.5);
- }
- footer p{
-   margin: 0% auto;
-
+      margin: 0% auto;
  }
