@@ -117,7 +117,6 @@ html {
 .container1 {
     width: 75%; /* half width */
     background-color: rgb(248, 247, 247); /* Grey background */
-    border: 5px solid ;
     border-radius: 15px ;
     
   }
@@ -128,10 +127,10 @@ html {
     color: rgb(255, 255, 255); /* White text color */
   }
   
-  .html {width: 90%; background-color: #4CAF50;} /* Green */
-  .css {width: 80%; background-color: #2196F3;} /* Blue */
-  .js {width: 65%; background-color: #f44336;} /* Red */
-  .php {width: 60%; background-color: #d3b929;} /* Dark Grey */
+  .html {width: 90%; background-color: #2196F3;} /*Blue */
+  .css {width: 70%; background-color: #2196F3;} /* Blue */
+  .js {width: 45%; background-color: #2196F3;} /* Blue */
+  .java {width: 60%; background-color: #2196F3;} /* Blue */
   
   
 
