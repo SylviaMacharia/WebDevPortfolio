@@ -1,5 +1,5 @@
 # WebDevPortfolio
-Netlify Link to project:https://wonderful-sinoussi-79a322.netlify.app/
+Netlify Link to project:https://sylviamacharia.netlify.app/
 This is a web dev portfolio that was a project for a bootcamp at lux tech academy.
 The website has been built using the following languages:
  -HTML -CSS 
